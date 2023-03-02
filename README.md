@@ -1,0 +1,3 @@
+# otamesi
+はじめてのgithub
+テストです
