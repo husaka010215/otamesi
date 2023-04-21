@@ -1,3 +1,0 @@
-# otamesi
-はじめてのgithub
-テストです
